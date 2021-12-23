@@ -20,8 +20,8 @@ possible and also reduce the human efforts.
 
 
 This project was worked upon by a team and the following are the members
- G.V.S. CHETAN TEJA
- BATTINI BALARAM
- POLNENI PRASHANTH
- VENKATA AKHIL CHINTALA
- SEELAM VISHNU VARDHAN REDDY
+G.V.S. CHETAN TEJA
+BATTINI BALARAM
+POLNENI PRASHANTH
+VENKATA AKHIL CHINTALA
+SEELAM VISHNU VARDHAN REDDY

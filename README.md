@@ -21,14 +21,13 @@ possible and also reduce the human efforts.
 
 To use this prototype feel free to use the website below
 
-http://upgradetopro.great-site.net/
-
+http://onlinelibrarynitc.great-site.net/
 
 
 
 This project was worked upon by a team and the following are the members
 
-- G.V.S. CHETAN TEJA 
+- G.V.S.CHETAN TEJA 
 - BATTINI BALARAM
 - POLNENI PRASHANTH
 - VENKATA AKHIL CHINTALA
